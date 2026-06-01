@@ -3,7 +3,8 @@
     Lab #2
     CSC 1570
 
-    This program performs multiple complex calculations on
+    This program performs multiple complex calculations on a decimal number
+    entered by the user.
 
     Output “Please enter a decimal number: ”.
     Store input as decNum.
