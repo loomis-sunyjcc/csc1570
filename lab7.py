@@ -20,7 +20,7 @@ def main ( ):
             print ( f"Encrypted = \"{encrypt(message, key)}\"")
         elif choice == 2:
             message = input ( "Enter message: " )
-            key = int ( input ( "Enter message: " ) )
+            key = int ( input ( "Enter key: " ) )
             print ( f"Decrypted = \"{encrypt(message, -key)}\"")
         choice = get_menu_choice( )
 
