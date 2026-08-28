@@ -13,12 +13,12 @@
     Output “It’s nice to meet you, name!”
     Output “What color eyes to you have?”
     Store input as eyeColor
-    Output “My eyes are also eyeColor, what a coincidence.”
+    Output “My eyes are also eye_color, what a coincidence.”
     Output “How old are you?”
     Store input as age
-    Set computerAge = age + 2
+    Set computer_age = age + 2
     Output “Wow, we are almost the same age.”
-    Output “I am computerAge years old.”
+    Output “I am computer_age years old.”
     Output “I need to get a byte to eat. I’ll talk to you later.”
 """
 __author__ = "Your Name"
