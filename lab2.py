@@ -7,20 +7,20 @@
     entered by the user.
 
     Output “Please enter a decimal number: ”.
-    Store input as decNum.
+    Store input as dec_num.
 
-    Set floorNum = the floor of decNum.
-    Set ceilNum = the ceiling of the decNum.
-    Set wholePosNum = absolute value of decNum rounded to the nearest integer.
-    Set sqrNum = calculate the square of wholePosNum.
-    Set cubeNum = calculate the cube of wholePosNum.
-    Set sqrRootNum = calculate the square root of wholePosNum.
+    Set floor_num = the floor of dec_num.
+    Set ceil_num = the ceiling of the dec_num.
+    Set whole_pos_num = absolute value of dec_num rounded to the nearest integer.
+    Set sqr_num = calculate the square of whole_pos_num.
+    Set cube_num = calculate the cube of whole_pos_num.
+    Set sqr_root_num = calculate the square root of whole_pos_num.
 
-    Output “The floor of decNum is floorNum”
-    Output “The ceiling of decNum is ceilNum”
-    Output “The square of wholePosNum is sqrNum”
-    Output “The cube of wholePosNum is cubeNum”
-    Output “The square root of wholePosNum is sqrRootNum”
+    Output “The floor of dec_num is floor_num”
+    Output “The ceiling of dec_num is ceil_num”
+    Output “The square of whole_pos_num is sqr_num”
+    Output “The cube of whole_pos_num is cube_num”
+    Output “The square root of whole_pos_num is sqr_root_num”
 
 """
 __author__ = "Your name"
